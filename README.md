@@ -36,4 +36,6 @@ src/
 🔗 **Live Site:** (https://Aditya-MC.github.io/ToDoList-app_react)  
 📦 **Source Code:** (https://github.com/Aditya-MC/ToDoList-app_react)  
 
+Author:
+Aditya MC
 ---
